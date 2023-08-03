@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-schedule": "1.3.0"
+  },
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "cursoUdemy",
+  "main": "outro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ksoksokehhhhfk",
+    "kkskkfks"
+  ],
+  "author": "Gomes",
+  "license": "ISC"
+}
